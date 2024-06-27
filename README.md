@@ -37,5 +37,4 @@ mas sempre me interessei por tecnologia e quando descobri a area de programacao 
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=pericleys&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
 
-
-![Snake animation]https://github.com/pericleys/pericleys/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/pericleys/pericleys/blob/output/github-contribution-grid-snake.svg)
